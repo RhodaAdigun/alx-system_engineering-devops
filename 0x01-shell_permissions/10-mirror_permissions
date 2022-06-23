@@ -1,0 +1,2 @@
+#!/bin/bash
+sudon chmod --reference=olleh hello
